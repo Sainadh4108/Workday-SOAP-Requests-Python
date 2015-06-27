@@ -1,2 +1,4 @@
 # Workday-SOAP-Requests-Python
-Making a Put Worker Document request Using Python
+
+Example of a simple put request using Python
+
