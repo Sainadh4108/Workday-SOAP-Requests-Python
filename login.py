@@ -40,7 +40,7 @@ password = '*****'
  
 # wsdl url from public web services workday
 # for more information refer documentation on workday on SOAP
-wsdl_url = 'https://****************************/hp6/Staffing/v24.1?wsdl'
+wsdl_url = 'https://****************************/Staffing/v24.1?wsdl'
 client = client.Client(wsdl_url)
  
 # Wrapping our client call in Security() like this results in submitting
